@@ -8,10 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align = "center">
 
-## ✨ YOUNGSU NA ✨
-
-![youngsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0su1327&show_icons=true&theme=dark)
-
 
 <br><br>
 
@@ -21,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <br><br>
 
 ## Git and Editors
